@@ -41,7 +41,7 @@ This makes `innerHTML` one of the **most dangerous DOM sinks**.
 
 We access the lab to inspect how the search box behaves and what the JavaScript does with our input.
 
-![1](XSS3S/1.png)
+![1](XSS3/1.png)
 
 ➤ **Why?**
 Understand where user input flows — in this case: search box → URL → innerHTML.
